@@ -1,5 +1,5 @@
 # react-input-autosize
-## v2.2.3 / 2019-01-10
+## v2.2.3 / 2020-11-12
 * removed UNSAFE React methods
 
 ## v2.2.2 / 2019-01-10
