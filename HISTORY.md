@@ -1,4 +1,7 @@
 # react-input-autosize
+## v2.2.3 / 2019-01-10
+* removed UNSAFE React methods
+
 ## v2.2.2 / 2019-01-10
 * added UNSAFE prefix to out of date react lifecycle hooks. thanks [RanneyD](https://github.com/ranneyd)
 
